@@ -7,7 +7,7 @@ https://public.tableau.com/app/profile/yanna.kacey.dee/viz/GlobalE-commerceCateg
 ## Overview
 This project showcases an interactive Tableau dashboard analyzing global e-commerce performance for the year 2025. It highlights key business metrics such as revenue, total orders, and average order value (AOV), along with category-level and geographic insights.
 
-The goal is to uncover trends and patterns that can support executive-level decision-making in e-commerce.
+The goal is to provide a broad-level view of global trends and patterns that can support decision-making in e-commerce.
 
 ## Key Features
 - KPI cards for Revenue, Orders, and AOV with month-over-month growth
