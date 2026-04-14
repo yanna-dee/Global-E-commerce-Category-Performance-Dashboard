@@ -1,5 +1,5 @@
 # Global E-commerce Category Performance Dashboard (Tableau)
-<img width="1002" height="803" alt="Screen Shot 2026-04-14 at 10 34 02 PM" src="https://github.com/user-attachments/assets/da19dde0-73ae-44f9-9ea5-ed1fe37717c6" />
+<img width="1001" height="801" alt="Screen Shot 2026-04-14 at 10 37 39 PM" src="https://github.com/user-attachments/assets/8d669ad6-2130-413e-9ee2-255d67675e4e" />
 
 
 ### Tableau Public Link
